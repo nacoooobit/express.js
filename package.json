@@ -1,0 +1,12 @@
+{
+  "name": "adso-backend-base",
+  "version": "1.0.0",
+  "description": "Estructura base backend para proyecto ADSO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["backend", "nodejs", "adso"],
+  "author": "Equipo de Desarrollo ADSO",
+  "license": "ISC"
+}
